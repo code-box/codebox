@@ -86,7 +86,7 @@
     "packageDependencies": {
         "about": "code-box/package-about",
         "command-palette": "code-box/package-command-palette",
-        "ctags": "code-box/package-ctags",
+        //"ctags": "code-box/package-ctags",
         "editor": "code-box/package-editor",
         "editorsync": "code-box/package-editorsync",
         "files-tree": "code-box/package-files-tree",
